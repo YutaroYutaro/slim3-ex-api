@@ -1,1 +1,0 @@
-# slim3-ex-api
